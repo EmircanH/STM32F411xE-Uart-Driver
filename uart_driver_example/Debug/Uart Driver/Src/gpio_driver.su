@@ -1,0 +1,4 @@
+../Uart Driver/Src/gpio_driver.c:18:9:GET_GPIO_Index	16	static
+../Uart Driver/Src/gpio_driver.c:23:9:IS_GPIO_PIN_USED	16	static
+../Uart Driver/Src/gpio_driver.c:27:6:GPIO_ENABLE_CLOCK	16	static
+../Uart Driver/Src/gpio_driver.c:31:6:GPIO_init	24	static

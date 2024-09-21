@@ -1,0 +1,6 @@
+../Uart Driver/Src/ring_buffer.c:10:9:RING_BUFFER_Empty	16	static
+../Uart Driver/Src/ring_buffer.c:17:10:RING_BUFFER_Bytes	16	static
+../Uart Driver/Src/ring_buffer.c:23:9:RING_BUFFER_Full	32	static
+../Uart Driver/Src/ring_buffer.c:40:9:RING_BUFFER_Write	32	static
+../Uart Driver/Src/ring_buffer.c:62:9:RING_BUFFER_Read	24	static
+../Uart Driver/Src/ring_buffer.c:82:9:RING_BUFFER_Peek	16	static
